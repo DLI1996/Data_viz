@@ -1,0 +1,16 @@
+numpy
+pandas
+sklearn
+scikit-image
+flask
+streamlit
+keras
+tensorflow
+mtcnn
+torch
+pydot
+graphviz
+seaborn
+matplotlib 
+xgboost
+dlib
